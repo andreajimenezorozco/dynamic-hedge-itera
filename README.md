@@ -1,6 +1,7 @@
-## Description
+# Dynamic Hedging
 
-### Dynamic Hedging
+
+## Description
 
 ## Install dependencies
 
